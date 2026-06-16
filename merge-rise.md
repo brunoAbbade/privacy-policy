@@ -46,9 +46,25 @@ O Merge Rise não solicita nenhuma permissão especial do dispositivo.
 
 ---
 
-## 👶 Crianças
+## 👶 Crianças e Política para Famílias
 
-O aplicativo não coleta dados de nenhum usuário, incluindo menores de idade, e é seguro para todas as idades.
+O Merge Rise é seguro para todas as idades. O aplicativo:
+
+- Não coleta dados pessoais de nenhum usuário, incluindo menores de idade
+- Não exibe publicidade de qualquer natureza
+- Não contém funcionalidades sociais ou compartilhamento de informações
+- Não transmite identificadores do dispositivo (Android ID, endereço MAC, localização etc.)
+- Está em conformidade com a **Política para Famílias do Google Play**
+
+---
+
+## ⚖️ Conformidade Legal
+
+Esta política está em conformidade com:
+
+- **COPPA** (Children's Online Privacy Protection Act — EUA)
+- **GDPR** (General Data Protection Regulation — União Europeia)
+- **LGPD** (Lei Geral de Proteção de Dados — Brasil)
 
 ---
 
@@ -108,9 +124,25 @@ Merge Rise does not request any special device permissions.
 
 ---
 
-## 👶 Children
+## 👶 Children and Families Policy
 
-The application does not collect data from any user, including minors, and is safe for all ages.
+Merge Rise is safe for all ages. The application:
+
+- Does not collect personal data from any user, including minors
+- Does not display advertising of any kind
+- Does not contain social features or information sharing
+- Does not transmit device identifiers (Android ID, MAC address, location, etc.)
+- Complies with the **Google Play Families Policy**
+
+---
+
+## ⚖️ Legal Compliance
+
+This policy complies with:
+
+- **COPPA** (Children's Online Privacy Protection Act — USA)
+- **GDPR** (General Data Protection Regulation — European Union)
+- **LGPD** (Lei Geral de Proteção de Dados — Brazil)
 
 ---
 
