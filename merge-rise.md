@@ -60,8 +60,7 @@ Eventuais atualizações serão publicadas nesta página com a data de revisão 
 
 ## 📬 Contato
 
-Dúvidas sobre esta política podem ser enviadas para:
-**abbade.bruno@gmail.com**
+Dúvidas sobre esta política podem ser enviadas pelo repositório oficial do aplicativo.
 
 ---
 ---
@@ -123,5 +122,4 @@ Any updates will be published on this page with an updated revision date.
 
 ## 📬 Contact
 
-Questions about this policy can be sent to:
-**abbade.bruno@gmail.com**
+Questions about this policy can be sent via the app's official repository.
