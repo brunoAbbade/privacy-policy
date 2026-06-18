@@ -7,3 +7,7 @@ title: Privacy Policies — Bruno Abbade
 
 - [Merge Rise](./merge-rise)
 - [Cifras Praise](./cifras-praise)
+
+# 🛟 Support
+
+- [Merge Rise Support](./merge-rise-support)
